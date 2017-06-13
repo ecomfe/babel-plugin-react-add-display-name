@@ -160,3 +160,4 @@ require("babel-core").transform("code", {
     ```
     
 - For other cases where there is no explicit hint of `displayName`, this plugin will not add `displayName` to component.
+
